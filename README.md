@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spree on Heroku
 
 This is an extension for Spree, allowing the e-commerce system to run on Heroku - http://heroku.com.
@@ -66,3 +67,4 @@ Contributors:
 *   Pavel Chipiga
 *   Andrey Voronkov
 *   Amed Rodriguez
+spree-heroku
